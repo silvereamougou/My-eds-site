@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:4502/sites.html/bin/franklin.delivery/silvereamougou/My-eds-site/main"
+    url: "https://main--my-eds-site--silvereamougou.hlx.page"
     type: "markup"
     suffix: ".html"
